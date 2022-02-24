@@ -1,0 +1,7 @@
+{
+  "name": "testCapNoti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
